@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>13260675724-ojsbhmph0k0824d0ng3h0b5rs9vgq2m5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.13260675724-ojsbhmph0k0824d0ng3h0b5rs9vgq2m5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAK2gCllaZHMAWo4s1mmschk1j5VrBXma8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>13260675724</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.itis.ios.NSGames</string>
+	<key>PROJECT_ID</key>
+	<string>nsgames-c7523</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nsgames-c7523.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:13260675724:ios:9df89be541b7fcb642b9a9</string>
+</dict>
+</plist>

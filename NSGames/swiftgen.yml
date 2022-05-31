@@ -1,0 +1,12 @@
+strings:
+  inputs:
+    - NSGames/Resources/NSGames/Base.lproj/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: NSGames/Resources/SwiftGen/Strings.swift
+xcassets:
+  inputs:
+    - NSGames/Resources/SwiftGen/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: NSGames/Resources/SwiftGen/Assets.swift
